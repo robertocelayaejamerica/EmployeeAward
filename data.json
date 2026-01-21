@@ -1,15 +1,15 @@
 {
   "title": "MOST TICKETS CLOSED IN THE MONTH",
   "employee1": {
-    "name": "Juan Pérez",
-    "photo": "https://raw.githubusercontent.com/YOUR_USERNAME/employee-assets/main/images/employee1.jpg",
-    "value": 128,
+    "name": "Employee One",
+    "photo": "https://raw.githubusercontent.com/YOUR_USERNAME/EmployeeAward/main/images/employee1.jpg",
+    "value": 120,
     "label": "INCIDENTS"
   },
   "employee2": {
-    "name": "María González",
-    "photo": "https://raw.githubusercontent.com/YOUR_USERNAME/employee-assets/main/images/employee2.jpg",
-    "value": 96,
+    "name": "Employee Two",
+    "photo": "https://raw.githubusercontent.com/YOUR_USERNAME/EmployeeAward/main/images/employee2.jpg",
+    "value": 98,
     "label": "REQUESTS"
   }
 }
