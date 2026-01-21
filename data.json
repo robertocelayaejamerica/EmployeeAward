@@ -1,13 +1,13 @@
 {
   "title": "MOST TICKETS CLOSED IN THE MONTH",
   "employee1": {
-    "name": "Employee One",
+    "name": "Ron Swanson",
     "photo": "https://raw.githubusercontent.com/robertocelayaejamerica/EmployeeAward/main/images/employee1.jpg",
     "value": 120,
     "label": "INCIDENTS"
   },
   "employee2": {
-    "name": "Employee Two",
+    "name": "Also Ron Swanson",
     "photo": "https://raw.githubusercontent.com/robertocelayaejamerica/EmployeeAward/main/images/employee2.jpg",
     "value": 98,
     "label": "REQUESTS"
