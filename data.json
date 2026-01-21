@@ -1,0 +1,17 @@
+{
+  "title": "MOST TICKETS CLOSED IN THE MONTH",
+  "employees": [
+    {
+      "name": "Juan Pérez",
+      "photo": "https://raw.githubusercontent.com/YOUR_USERNAME/employee-assets/main/images/employee1.jpg",
+      "value": 128,
+      "label": "INCIDENTS"
+    },
+    {
+      "name": "María González",
+      "photo": "https://raw.githubusercontent.com/YOUR_USERNAME/employee-assets/main/images/employee2.jpg",
+      "value": 96,
+      "label": "REQUESTS"
+    }
+  ]
+}
